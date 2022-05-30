@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Object-oriented programming, data structures and libraries, APIs & microservices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itatenda](https://github.com/itatenda)
+- 👨‍💻 All of my projects are available at https://github.com/PamelaMujikeni
 
 - 📝 I regularly write articles on [coming soon](coming soon)
 
