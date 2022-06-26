@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pam</h1>
-<h3 align="center"> Welcome to my little corner in git. Nothing spectacular here (yet!) but feel free browse through and follow me on my journey into software dev </h3>
+<h3 align="center"> Welcome to my little corner of git. Nothing spectacular here (yet!) but feel free browse through and follow me on my journey into software dev </h3>
 <img align="right" alt="Coding" width="400" src="https://preview.redd.it/fiq6jzeh62x61.jpg?width=1920&format=pjpg&auto=webp&s=a1c6c5c19f2eb17b9787b7ea5398b72722748a72"
 - 🔭 I’m currently working on various fron **SQL, HTML, CSS, PYTHON, JAVA**
 
