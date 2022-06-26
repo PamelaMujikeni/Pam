@@ -3,13 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://preview.redd.it/fiq6jzeh62x61.jpg?width=1920&format=pjpg&auto=webp&s=a1c6c5c19f2eb17b9787b7ea5398b72722748a72"
 - 🔭 I’m currently working on various fron **SQL, HTML, CSS, PYTHON, JAVA**
 
-- 🌱 I’m currently learning **Object-oriented programming, data structures and libraries, APIs & microservices**
-
-- 👨‍💻 All of my projects are available at https://github.com/PamelaMujikeni
-
-- 📝 I regularly write articles on [coming soon](coming soon)
-
-- 💬 Ask me about **HTML, CSS, Python, APIs**
+- 🌱 I’m currently learning ** Object-oriented programming, data structures and libraries, APIs & microservices **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
