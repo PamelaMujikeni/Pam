@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pam</h1>
-<h3 align="center"> Welcome to my thin slice of git. Just completed a coding bootcamp and starting to build projects on my own. Feel to free to snoop around and follow me on my journey into devOps (ultimate goal) </h3>
+<h3 align="center"> Welcome to my thin of git. Just completed a coding bootcamp and starting to build projects on my own. Feel to free to snoop around and follow me on my journey into devOps (ultimate goal) </h3>
 <img align="right" alt="Coding" width="400" src="https://preview.redd.it/fiq6jzeh62x61.jpg?width=1920&format=pjpg&auto=webp&s=a1c6c5c19f2eb17b9787b7ea5398b72722748a72"
 
 
